@@ -1,0 +1,1 @@
+{'hello' : 'boli' , 'whats up' : 'bonjog' , 'bye' : 'yalla', 'no' : 'nay', 'yes' : 'fre'}
