@@ -43,5 +43,8 @@ while True:
         else:
             print('Invalid entry ---- iroi entrio')
 
-    except ZeroDivisionError:
+
+    except ValueError:
         print('Invalid entry  ---- iroi entrio')
+    except:
+        print('An error has occured')
