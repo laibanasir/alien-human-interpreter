@@ -32,3 +32,5 @@ while True:
 
     except ValueError:
         print('Invalid entry  ---- iroi entrio')
+    except:
+        print('An error has occured')
