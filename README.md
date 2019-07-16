@@ -26,6 +26,6 @@ and gives the translation for the required word.
 
 This program uses csv module that also lets the user add a word with its translation into the dictionary.
 
-#### Coded with : Visual Studio Code 
+#### Coded on : Visual Studio Code 
 
 #### Language used : Python 3.7
